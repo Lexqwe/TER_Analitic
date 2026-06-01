@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TER_Analitic",
   "resources": {
-    "hash": "sha256-5VyNgOXXpoK489z2nQvuz22xqtu/S44JtzvKz6PBvdw=",
+    "hash": "sha256-YkDtQCKZpZ8cm7T9eUhAwqGPQBYnD/JYD+IY/AIZ3bY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-kl1kEnJ/0kgP6CiBXxh0TGGx8OxEjqiOqEqYEpUL7HE="
     },
@@ -64,7 +64,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-Kw+cpoPqPH5JrPWxYgDaYq8fy9g6iTG72/MVtmEW/2s=",
       "System.Threading.wasm": "sha256-2S9RtKbJnn4cSPcVhNmsYrlvoRtZSC6u+HTsnaQUTb8=",
       "System.Private.CoreLib.wasm": "sha256-X+jNlh2ZY6WoFktFG8IjOKZIB1xM5GqSAojPim60GYk=",
-      "TER_Analitic.wasm": "sha256-hR12Yowpbaz6G+BV1c0b0oyUiPyMEU/m6vkVelUcScc="
+      "TER_Analitic.wasm": "sha256-7TgPdBP4gH2uputSC38n1D9JrAcS8ZOY/QJ5lB2utyM="
     }
   },
   "cacheBootResources": true,
